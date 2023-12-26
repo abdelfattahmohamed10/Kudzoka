@@ -385,8 +385,6 @@ footer {
 }
 
 .last_photo img {
-    /* padding-bottom: 200px; */
-    /* height: 500px; */
     position: absolute;
     bottom: 0%;
     height: 410px;
